@@ -2,7 +2,7 @@
 	{
 		"Name": "DecorativeBlocks",
 		"Creator": "CobaltArray",
-		"ModFolder": "DecorativeBlocks",
+		"ModFolder": "CobaltArray/DecorativeBlocks",
 		"ReleaseURL": "https://api.github.com/repos/CobaltArray/Colony-Survival-Decorative-Blocks/releases"
 	},
 	{
@@ -104,6 +104,12 @@
 				"ModName":"New Colony API"
 			}
 		]	
+	},
+	{
+		"Name": "Ulfric.ColonyAddOns",
+		"Creator": "Ulfric (updated by Nach0)",
+		"ModFolder": "Ulfric/ColonyAddOns",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Ulfric.ColonyAddOnsBeta/releases"
 	},
 	{
 		"Name": "Windows Expanded",
