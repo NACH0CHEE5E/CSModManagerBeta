@@ -73,6 +73,12 @@
             }
         ]
     	},
+	{
+        "Name": "NACH0.Doors",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/Doors",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Doors/releases"
+   	},
     	{
         "Name": "NACH0.Guards",
         "Creator": "Nach0",
@@ -224,6 +230,12 @@
             }
         ]
     	},
+	{
+        "Name": "PlaceableWater",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/PlaceableWater",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/PlaceableWater/releases"
+   	},
     	{
         "Name": "Rise of the New Colonies",
         "Creator": "JackPS9",
