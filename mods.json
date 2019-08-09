@@ -46,6 +46,10 @@
             {
                 "Creator": "Nach0",
                 "ModName": "NACH0.Colours"
+            },
+	{
+                "Creator": "Nach0",
+                "ModName": "NACH0.PlaceableWater"
             }
         ]
     	},
@@ -155,6 +159,12 @@
             }
         ]
     	},
+	{
+        "Name": "NACH0.PlaceableWater",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/PlaceableWater",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/PlaceableWater/releases"
+   	},
     	{
         "Name": "NACH0.Toilets",
         "Creator": "Nach0",
@@ -230,12 +240,6 @@
             }
         ]
     	},
-	{
-        "Name": "PlaceableWater",
-        "Creator": "Nach0",
-        "ModFolder": "Nach0/PlaceableWater",
-        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/PlaceableWater/releases"
-   	},
     	{
         "Name": "Rise of the New Colonies",
         "Creator": "JackPS9",
